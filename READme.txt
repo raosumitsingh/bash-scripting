@@ -1,0 +1,1 @@
+A bash script and a Python script that will rename files that were named with Jane's previous username "jane" to "jdoe"
